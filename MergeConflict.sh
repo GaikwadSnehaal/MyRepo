@@ -1,1 +1,1 @@
-echo "Hello Snail"
+echo "Hello"
