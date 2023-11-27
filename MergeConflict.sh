@@ -1,2 +1,2 @@
 echo "Hello snail"
-echo "Hello"
+echo "How are you"
